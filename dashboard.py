@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 st.set_page_config(page_title="דשבורד קטן לדוגמה", layout="wide")
-st.title("📊 דשבורד קטן לדוגמה")
+st.title("📊  מקטן לדודוליטלה")
 st.markdown("ברוך הבא לדשבורד לדוגמה ב-Streamlit!")
 
 # יצירת נתונים לדוגמה
